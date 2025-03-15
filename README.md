@@ -1,4 +1,4 @@
-# springboot-aws-deploy
+# aws-codepipeline-springboot-ECS
 
 This is a sample microservice to deploy it on AWS ECS.
 
