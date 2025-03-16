@@ -11,6 +11,9 @@ public class TestController {
     public String getData() {
         return "Congrats Anthony for launching the app on AWS ECS";
     }
-
+@GetMapping("/message")
+    public String getmessage() {
+        return "Congrats Anthony for testing the CICD pipeline";
+    }
    
 }
